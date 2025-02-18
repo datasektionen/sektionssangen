@@ -1,0 +1,6 @@
+BEGIN
+    INTEGER a,b,c;
+    OutText("D");
+    OutText("-");
+    OutText("Sektionen"); OutImage;
+END;
