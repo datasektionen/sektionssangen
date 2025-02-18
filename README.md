@@ -1,0 +1,2 @@
+# sektionssangen
+Konglig Datasektionens sektionssång
